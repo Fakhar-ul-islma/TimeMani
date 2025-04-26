@@ -1,19 +1,19 @@
 import React from "react";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
-import bannerBg04 from "../../assets/images/banner-bg-04.png";
+import bannerBg04 from "../../../assets/images/banner-bg-04.png";
 
 
-import ashape08 from "../../assets/images/shape-08.png";
+import ashape08 from "../../../assets/images/shape-08.png";
 
-import flagIcon from "../../assets/images/flag-icon.svg";
+import flagIcon from "../../../assets/images/flag-icon.svg";
 
-import expertIcon from "../../assets/images/expert-icon.svg";
+import expertIcon from "../../../assets/images/expert-icon.svg";
 
-import usersIcon from "../../assets/images/users-icon.svg";
+import usersIcon from "../../../assets/images/users-icon.svg";
 
 
 const ExpertSection = () => {

@@ -1,16 +1,16 @@
 import React from "react";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
-import sectionBg03 from "../../assets/images/section-bg-03.png";
-import sectionBg06 from "../../assets/images/section-bg-06.png";
+import sectionBg03 from "../../../assets/images/section-bg-03.png";
+import sectionBg06 from "../../../assets/images/section-bg-06.png";
 
 
-import bannerBg04 from "../../assets/images/banner-bg-04.png";
+import bannerBg04 from "../../../assets/images/banner-bg-04.png";
 
-import listSearchIcon from "../../assets/images/list-search-icon.svg";
+import listSearchIcon from "../../../assets/images/list-search-icon.svg";
 
 
 const FAQ = () => {

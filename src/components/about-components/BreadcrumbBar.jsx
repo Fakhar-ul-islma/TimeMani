@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col, Breadcrumb } from 'react-bootstrap';
-import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS
+import "../../../assets/css/bootstrap.min.css"; // Import Bootstrap CSS
 
 const BreadcrumbBar = () => {
   return (

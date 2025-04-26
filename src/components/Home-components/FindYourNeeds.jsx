@@ -1,12 +1,12 @@
 import React from "react";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
-import ipadIcon from "../../assets/images/ipad-icon.svg";
-import serviceIcon from "../../assets/images/service-icon.svg";
-import userIcon01 from "../../assets/images/user-icon-01.svg";
+import ipadIcon from "../../../assets/images/ipad-icon.svg";
+import serviceIcon from "../../../assets/images/service-icon.svg";
+import userIcon01 from "../../../assets/images/user-icon-01.svg";
 
 
 

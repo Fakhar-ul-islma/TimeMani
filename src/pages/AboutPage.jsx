@@ -17,7 +17,7 @@ import targetArrowIcon from "../../assets/images/target-arrow-icon.svg";
 
 
 
-const About = () => {
+const AboutPage = () => {
   return (
     <>
     {/* <Header/> */}
@@ -86,4 +86,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default AboutPage;

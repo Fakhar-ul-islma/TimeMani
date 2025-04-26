@@ -1,35 +1,35 @@
 import React from "react";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
-import gigs01_1 from "../../assets/images/gigs-01_1.jpg";
-import gigs02_1 from "../../assets/images/gigs-02_1.jpg";
-import gigs03_1 from "../../assets/images/gigs-03_1.jpg";
-import gigs04_1 from "../../assets/images/gigs-04_1.jpg";
-import gigs05_1 from "../../assets/images/gigs-05_1.jpg";
-import gigs06_1 from "../../assets/images/gigs-06_1.jpg";
-import gigs07_1 from "../../assets/images/gigs-07_1.jpg";
-import gigs08_1 from "../../assets/images/gigs-08_1.jpg";
-import gigs09_1 from "../../assets/images/gigs-09_1.jpg";
-import gigs10_1 from "../../assets/images/gigs-10_1.jpg";
-import gigs11_1 from "../../assets/images/gigs-11_1.jpg";
-import gigs12_1 from "../../assets/images/gigs-12_1.jpg";
-import gigs13_1 from "../../assets/images/gigs-13.jpg";
-import gigs14_1 from "../../assets/images/gigs-14.jpg";
+import gigs01_1 from "../../../assets/images/gigs-01_1.jpg";
+import gigs02_1 from "../../../assets/images/gigs-02_1.jpg";
+import gigs03_1 from "../../../assets/images/gigs-03_1.jpg";
+import gigs04_1 from "../../../assets/images/gigs-04_1.jpg";
+import gigs05_1 from "../../../assets/images/gigs-05_1.jpg";
+import gigs06_1 from "../../../assets/images/gigs-06_1.jpg";
+import gigs07_1 from "../../../assets/images/gigs-07_1.jpg";
+import gigs08_1 from "../../../assets/images/gigs-08_1.jpg";
+import gigs09_1 from "../../../assets/images/gigs-09_1.jpg";
+import gigs10_1 from "../../../assets/images/gigs-10_1.jpg";
+import gigs11_1 from "../../../assets/images/gigs-11_1.jpg";
+import gigs12_1 from "../../../assets/images/gigs-12_1.jpg";
+import gigs13_1 from "../../../assets/images/gigs-13.jpg";
+import gigs14_1 from "../../../assets/images/gigs-14.jpg";
 
-import mapPinCheck from "../../assets/images/map-pin-check.svg";
+import mapPinCheck from "../../../assets/images/map-pin-check.svg";
 
-import contactBg from "../../assets/images/contact-bg.png";
+import contactBg from "../../../assets/images/contact-bg.png";
 
-import category13 from "../../assets/images/category-13.jpg";
-import category02 from "../../assets/images/category-02.jpg";
-import category03 from "../../assets/images/category-03.jpg";
-import category04 from "../../assets/images/category-04.jpg";
+import category13 from "../../../assets/images/category-13.jpg";
+import category02 from "../../../assets/images/category-02.jpg";
+import category03 from "../../../assets/images/category-03.jpg";
+import category04 from "../../../assets/images/category-04.jpg";
 
-import contactBg01 from "../../assets/images/contact-bg-01.png";
-import contactBg02 from "../../assets/images/contact-bg-02.png";
+import contactBg01 from "../../../assets/images/contact-bg-01.png";
+import contactBg02 from "../../../assets/images/contact-bg-02.png";
 
 
 

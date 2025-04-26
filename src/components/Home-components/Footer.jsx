@@ -2,17 +2,19 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-import "../../assets/css/fontawesome.min.css"
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/feather.css";
+import "../../../assets/css/fontawesome.min.css"
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/feather.css";
 
 
-import footerBg01 from "../../assets/images/footer-bg-01.png";
-import footerBg02 from "../../assets/images/footer-bg-02.png";
+import footerBg01 from "../../../assets/images/footer-bg-01.png";
+import footerBg02 from "../../../assets/images/footer-bg-02.png";
 
-import stripeIcon from "../../assets/images/stripe-icon.svg";
+import stripeIcon from "../../../assets/images/stripe-icon.svg";
 
-import TimeBankLogoFooter from "../../assets/images/TimeBankLogoFooter.png";
+import TimeBankLogoFooter from "../../../assets/images/TimeBankLogoFooter.png";
+
+
 
 
 const Footer = () => {

@@ -1,33 +1,33 @@
 import React from "react";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
-import bannerBg04 from "../../assets/images/banner-bg-04.png";
-import banner08 from "../../assets//images/shape-08.png";
+import bannerBg04 from "../../../assets/images/banner-bg-04.png";
+import banner08 from "../../../assets//images/shape-08.png";
 
-import categoryIcon03 from "../../assets/images/category-icon-03.svg";
-import categoryIcon04 from "../../assets/images/category-icon-04.svg";
-import categoryIcon05 from "../../assets/images/category-icon-05.svg";
-import categoryIcon06 from "../../assets/images/category-icon-06.svg";
-import categoryIcon07 from "../../assets/images/category-icon-07.svg";
-import categoryIcon08 from "../../assets/images/category-icon-08.svg";
-import categoryIcon09 from "../../assets/images/category-icon-09.svg";
-import categoryIcon10 from "../../assets/images/category-icon-10.svg";
-import categoryIcon11 from "../../assets/images/category-icon-11.svg";
-import categoryIcon12 from "../../assets/images/category-icon-12.svg";
+import categoryIcon03 from "../../../assets/images/category-icon-03.svg";
+import categoryIcon04 from "../../../assets/images/category-icon-04.svg";
+import categoryIcon05 from "../../../assets/images/category-icon-05.svg";
+import categoryIcon06 from "../../../assets/images/category-icon-06.svg";
+import categoryIcon07 from "../../../assets/images/category-icon-07.svg";
+import categoryIcon08 from "../../../assets/images/category-icon-08.svg";
+import categoryIcon09 from "../../../assets/images/category-icon-09.svg";
+import categoryIcon10 from "../../../assets/images/category-icon-10.svg";
+import categoryIcon11 from "../../../assets/images/category-icon-11.svg";
+import categoryIcon12 from "../../../assets/images/category-icon-12.svg";
 
-import service01 from "../../assets/images/service-01.jpg";
-import service02 from "../../assets/images/service-02.jpg";
-import service03 from "../../assets/images/service-03.jpg";
-import service04 from "../../assets/images/service-04.jpg";
-import service05 from "../../assets/images/service-05.jpg";
-import service06 from "../../assets/images/service-06.jpg";
-import service07 from "../../assets/images/service-07.jpg";
-import service08 from "../../assets/images/service-08.jpg";
-import service09 from "../../assets/images/service-09.jpg";
-import service11 from "../../assets/images/service-11.jpg";
+import service01 from "../../../assets/images/service-01.jpg";
+import service02 from "../../../assets/images/service-02.jpg";
+import service03 from "../../../assets/images/service-03.jpg";
+import service04 from "../../../assets/images/service-04.jpg";
+import service05 from "../../../assets/images/service-05.jpg";
+import service06 from "../../../assets/images/service-06.jpg";
+import service07 from "../../../assets/images/service-07.jpg";
+import service08 from "../../../assets/images/service-08.jpg";
+import service09 from "../../../assets/images/service-09.jpg";
+import service11 from "../../../assets/images/service-11.jpg";
 
 const Popular = () => {
   return (

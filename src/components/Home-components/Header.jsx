@@ -2,11 +2,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
-import TimeBankLogo from "../../assets/images/TimeBankLogo.png";
+import TimeBankLogo from "../../../assets/images/TimeBankLogo.png";
 
 const Header = () => {
   return (
@@ -64,9 +64,9 @@ const Header = () => {
               </li>
 
               <li className="has-submenu nav-item">
-                <a href="#" onClick={(e) => e.preventDefault()} className="nav-link">
+                <Link to="/UserdashboardPage" onClick={(e) => e.preventDefault()} className="nav-link">
                   User Dashboard <i className="fas fa-chevron-down"></i>
-                </a>
+                </ Link>
                 <ul className="submenu">
                   <li className="has-submenu">
                     <a href="#" onClick={(e) => e.preventDefault()}>Authentication</a>
@@ -77,12 +77,12 @@ const Header = () => {
                       <li><Link to="/lock-screen">Lock Screen</Link></li>
                     </ul>
                   </li>
-                  <li><Link to="/dashboard">Dashboard</Link></li>
+                  <li><Link to="/UserdashboardPage">Dashboard</Link></li>
                   <li><Link to="/profile">My Profile</Link></li>
                   <li><Link to="/my-gigs">Manage Gigs</Link></li>
                   <li><Link to="/purchase">Purchase</Link></li>
                   <li><Link to="/sales">Sales</Link></li>
-                  <li><Link to="/files">Files</Link></li>
+                  <li><Link to="/UserFilesPage">Files</Link></li>
                   <li><Link to="/reviews">My Reviews</Link></li>
                   <li><Link to="/wishlist">Wishlist</Link></li>
                   <li><Link to="/messages">Messages</Link></li>

@@ -1,19 +1,19 @@
 import React from "react";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
-import user16 from "../../assets/images/user-16.jpg";
-import user17 from "../../assets/images/user-17.jpg";
-import user18 from "../../assets/images/user-18.jpg";
-import user19 from "../../assets/images/user-19.jpg";
+import user16 from "../../../assets/images/user-16.jpg";
+import user17 from "../../../assets/images/user-17.jpg";
+import user18 from "../../../assets/images/user-18.jpg";
+import user19 from "../../../assets/images/user-19.jpg";
 
-import arrowIcon from "../../assets/images/arrow-icon.svg";
+import arrowIcon from "../../../assets/images/arrow-icon.svg";
 
-import testimonialBg01 from "../../assets/images/testimonial-bg-01.png";
-import testimonialBg02 from "../../assets/images/testimonial-bg-02.png";
-import testimonialBg03 from "../../assets/images/testimonial-bg-03.png";
+import testimonialBg01 from "../../../assets/images/testimonial-bg-01.png";
+import testimonialBg02 from "../../../assets/images/testimonial-bg-02.png";
+import testimonialBg03 from "../../../assets/images/testimonial-bg-03.png";
 
 
 const Testimonials = () => {

@@ -1,30 +1,30 @@
 import React from "react";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
 
-import gigs01 from "../../assets/images/gigs-01.jpg";
-import gigs02 from "../../assets/images/gigs-02.jpg";
-import gigs03 from "../../assets/images/gigs-03.jpg";
-import gigs04 from "../../assets/images/gigs-04.jpg";
-import gigs05 from "../../assets/images/gigs-05.jpg";
-import gigs06 from "../../assets/images/gigs-06.jpg";
-import gigs07 from "../../assets/images/gigs-07.jpg";
-import gigs08 from "../../assets/images/gigs-08.jpg";
-import gigs09 from "../../assets/images/gigs-09.jpg";
-import gigs10 from "../../assets/images/gigs-10.jpg";
-import gigs11 from "../../assets/images/gigs-11.jpg";
-import gigs12 from "../../assets/images/gigs-12.jpg";
+import gigs01 from "../../../assets/images/gigs-01.jpg";
+import gigs02 from "../../../assets/images/gigs-02.jpg";
+import gigs03 from "../../../assets/images/gigs-03.jpg";
+import gigs04 from "../../../assets/images/gigs-04.jpg";
+import gigs05 from "../../../assets/images/gigs-05.jpg";
+import gigs06 from "../../../assets/images/gigs-06.jpg";
+import gigs07 from "../../../assets/images/gigs-07.jpg";
+import gigs08 from "../../../assets/images/gigs-08.jpg";
+import gigs09 from "../../../assets/images/gigs-09.jpg";
+import gigs10 from "../../../assets/images/gigs-10.jpg";
+import gigs11 from "../../../assets/images/gigs-11.jpg";
+import gigs12 from "../../../assets/images/gigs-12.jpg";
 
-import user01 from "../../assets//images/user-01.jpg";
-import user02 from "../../assets//images/user-02.jpg";
-import user03 from "../../assets//images/user-03.jpg";
-import user04 from "../../assets//images/user-04.jpg";
-import user05 from "../../assets//images/user-05.jpg";
+import user01 from "../../../assets//images/user-01.jpg";
+import user02 from "../../../assets//images/user-02.jpg";
+import user03 from "../../../assets//images/user-03.jpg";
+import user04 from "../../../assets//images/user-04.jpg";
+import user05 from "../../../assets//images/user-05.jpg";
 
-import mapPinCheck from "../../assets//images/map-pin-check.svg";
+import mapPinCheck from "../../../assets//images/map-pin-check.svg";
 
 
 

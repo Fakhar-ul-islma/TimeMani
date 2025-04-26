@@ -2,24 +2,24 @@
 import React, { useEffect } from "react";
 
 // ✅ CSS Files
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
-import "@fortawesome/fontawesome-free/css/all.min.css"; // Font Awesome CSS
-import "aos/dist/aos.css"; // AOS CSS
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/fontawesome.min.css"
+import "../../../assets/css/aos.css"; // AOS CSS
 
 // ✅ AOS Animation Library
 import AOS from "aos";
 
 // ✅ Images
-import bannerBg1 from "../../assets/images/banner-bg-01.png";
-import bannerBg2 from "../../assets/images/banner-bg-02.png";
-import bannerBg3 from "../../assets/images/banner-bg-03.png";
-import bannerBg4 from "../../assets/images/banner-bg-04.png";
-import mapPinHeart from "../../assets/images/map-pin-heart.svg";
-import bannerImg from "../../assets/images/banner-img.png";
-import bannerSmallBg1 from "../../assets/images/banner-small-bg-01.svg";
-import bannerSmallBg2 from "../../assets/images/banner-small-bg-02.png";
+import bannerBg1 from "../../../assets/images/banner-bg-01.png";
+import bannerBg2 from "../../../assets/images/banner-bg-02.png";
+import bannerBg3 from "../../../assets/images/banner-bg-03.png";
+import bannerBg4 from "../../../assets/images/banner-bg-04.png";
+import mapPinHeart from "../../../assets/images/map-pin-heart.svg";
+import bannerImg from "../../../assets/images/banner-img.png";
+import bannerSmallBg1 from "../../../assets/images/banner-small-bg-01.svg";
+import bannerSmallBg2 from "../../../assets/images/banner-small-bg-02.png";
 
 // ✅ React Select (if you want to use it)
 import Select from "react-select";

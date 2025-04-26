@@ -1,30 +1,30 @@
 import React from "react";
 
-import "../../assets/css/style.css";
-import "../../assets/css/bootstrap.min.css";
-import "../../assets/css/owl.carousel.min.css";
+import "../../../assets/css/style.css";
+import "../../../assets/css/bootstrap.min.css";
+import "../../../assets/css/owl.carousel.min.css";
 
-import list01 from "../../assets/images/list-01.jpg";
-import list02 from "../../assets/images/list-02.jpg";
-import list03 from "../../assets/images/list-03.jpg";
-import list04 from "../../assets/images/list-04.jpg";
-import list05 from "../../assets/images/list-05.jpg";
-import list06 from "../../assets/images/list-06.jpg";
-import list07 from "../../assets/images/list-07.jpg";
-import list08 from "../../assets/images/list-08.jpg";
-import list09 from "../../assets/images/list-09.jpg";
-import list10 from "../../assets/images/list-10.jpg";
-import list11 from "../../assets/images/list-11.jpg";
-import list12 from "../../assets/images/list-12.jpg";
-import list13 from "../../assets/images/list-13.jpg";
+import list01 from "../../../assets/images/list-01.jpg";
+import list02 from "../../../assets/images/list-02.jpg";
+import list03 from "../../../assets/images/list-03.jpg";
+import list04 from "../../../assets/images/list-04.jpg";
+import list05 from "../../../assets/images/list-05.jpg";
+import list06 from "../../../assets/images/list-06.jpg";
+import list07 from "../../../assets/images/list-07.jpg";
+import list08 from "../../../assets/images/list-08.jpg";
+import list09 from "../../../assets/images/list-09.jpg";
+import list10 from "../../../assets/images/list-10.jpg";
+import list11 from "../../../assets/images/list-11.jpg";
+import list12 from "../../../assets/images/list-12.jpg";
+import list13 from "../../../assets/images/list-13.jpg";
 
-import mapPinHeart from "../../assets/images/map-pin-check.svg";
+import mapPinHeart from "../../../assets/images/map-pin-check.svg";
 
-import user01 from "../../assets/images/user-01.jpg";
-import user02 from "../../assets/images/user-02.jpg";
-import user03 from "../../assets/images/user-03.jpg";
-import user04 from "../../assets/images/user-04.jpg";
-import user05 from "../../assets/images/user-05.jpg";
+import user01 from "../../../assets/images/user-01.jpg";
+import user02 from "../../../assets/images/user-02.jpg";
+import user03 from "../../../assets/images/user-03.jpg";
+import user04 from "../../../assets/images/user-04.jpg";
+import user05 from "../../../assets/images/user-05.jpg";
 
 
 
