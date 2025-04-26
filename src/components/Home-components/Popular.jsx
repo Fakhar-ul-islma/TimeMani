@@ -5,7 +5,7 @@ import "../../../assets/css/bootstrap.min.css";
 import "../../../assets/css/owl.carousel.min.css";
 
 import bannerBg04 from "../../../assets/images/banner-bg-04.png";
-import banner08 from "../../../assets//images/shape-08.png";
+import banner08 from "../../../assets/images/shape-08.png";
 
 import categoryIcon03 from "../../../assets/images/category-icon-03.svg";
 import categoryIcon04 from "../../../assets/images/category-icon-04.svg";

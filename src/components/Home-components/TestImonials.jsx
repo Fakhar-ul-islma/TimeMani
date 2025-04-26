@@ -16,7 +16,7 @@ import testimonialBg02 from "../../../assets/images/testimonial-bg-02.png";
 import testimonialBg03 from "../../../assets/images/testimonial-bg-03.png";
 
 
-const Testimonials = () => {
+const TestImonials = () => {
     return (
         <section className="testimonial-section">
 			<div className="container">
@@ -137,4 +137,4 @@ const Testimonials = () => {
     );
 };
 
-export default Testimonials
+export default TestImonials
