@@ -28,11 +28,14 @@ import "../assets/css/style.css";
 
 
 import React from 'react';
+
+
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
 import UserdashboardPage from "./pages/UserdashboardPage"
 import UserFilesPage from "./pages/UserFilesPage";
+import UserGigsPage from "./pages/UserGigsPage";
 import Header from "./components/Home-components/Header";
 import Footer from "./components/Home-components/Footer";
 import MouseCursor from "./components/Home-components/MouseCursor";
@@ -47,6 +50,7 @@ const App = () => {
         <Route path="/AboutPage" element={<AboutPage />} />
         <Route path="/UserdashboardPage" element={<UserdashboardPage />} />
         <Route path="/UserFilesPage" element={<UserFilesPage />} />
+        <Route path="/my-gigs" element={<UserGigsPage />} />
 
 
         </Routes>
